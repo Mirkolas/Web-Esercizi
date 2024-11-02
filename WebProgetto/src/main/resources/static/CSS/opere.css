@@ -1,0 +1,42 @@
+body {
+    background-color: #f4f6f9;
+}
+header {
+    background-color: #212529;
+    color: #ffffff;
+}
+h1 {
+    color: White;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-link {
+    color: grey !important;
+}
+.nav-link:hover {
+    color: #d9534f !important;
+}
+.card {
+    border: 1px solid #d9534f;
+}
+.btn-primary {
+    background-color: #0275d8;
+    border: none;
+}
+.btn-primary:hover {
+    background-color: #d9534f;
+}
+.btn-danger {
+    background-color: #d9534f;
+}
+.badge {
+    font-size: 10px;
+
+}
+#workTable thead {
+    background-color: #0275d8;
+    color: #ffffff;
+}
+footer {
+    background-color: #212529;
+}

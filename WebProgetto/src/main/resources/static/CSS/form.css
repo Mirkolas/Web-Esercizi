@@ -1,0 +1,46 @@
+body {
+    background-color: #2c2c2c;
+    color: #d3d3d3;
+}
+
+.bg-header, .bg-footer {
+    background-color: #1c1c1c;
+    color: #d3d3d3;
+}
+
+.nav-link {
+    color: #888888 !important;
+}
+
+.nav-link:hover {
+    color: #d9534f !important;
+}
+
+.btn-primary {
+    background-color: #565656;
+    border-color: #565656;
+}
+
+.btn-primary:hover {
+    background-color: #707070;
+    border-color: #707070;
+}
+
+.btn-secondary {
+    background-color: #404040;
+    border-color: #404040;
+}
+
+.btn-secondary:hover {
+    background-color: #5a5a5a;
+    border-color: #5a5a5a;
+}
+
+.accordion-button {
+    background-color: #3a3a3a;
+    color: #d3d3d3;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #565656;
+}
